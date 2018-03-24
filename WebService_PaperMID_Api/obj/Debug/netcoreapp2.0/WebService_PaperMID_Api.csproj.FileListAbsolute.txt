@@ -1,0 +1,33 @@
+C:\Users\Alejandro\Desktop\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.deps.json
+C:\Users\Alejandro\Desktop\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.runtimeconfig.json
+C:\Users\Alejandro\Desktop\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.runtimeconfig.dev.json
+C:\Users\Alejandro\Desktop\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.dll
+C:\Users\Alejandro\Desktop\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Desktop\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.pdb
+C:\Users\Alejandro\Desktop\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.dll
+C:\Users\Alejandro\Desktop\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.pdb
+D:\Universidad Tecnológica Metropolitana\Cuatrimestre No. 5 TSU\Projet\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.deps.json
+D:\Universidad Tecnológica Metropolitana\Cuatrimestre No. 5 TSU\Projet\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.runtimeconfig.json
+D:\Universidad Tecnológica Metropolitana\Cuatrimestre No. 5 TSU\Projet\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.runtimeconfig.dev.json
+D:\Universidad Tecnológica Metropolitana\Cuatrimestre No. 5 TSU\Projet\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.dll
+D:\Universidad Tecnológica Metropolitana\Cuatrimestre No. 5 TSU\Projet\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.pdb
+D:\Universidad Tecnológica Metropolitana\Cuatrimestre No. 5 TSU\Projet\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
+D:\Universidad Tecnológica Metropolitana\Cuatrimestre No. 5 TSU\Projet\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.AssemblyInfoInputs.cache
+D:\Universidad Tecnológica Metropolitana\Cuatrimestre No. 5 TSU\Projet\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.AssemblyInfo.cs
+D:\Universidad Tecnológica Metropolitana\Cuatrimestre No. 5 TSU\Projet\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.dll
+D:\Universidad Tecnológica Metropolitana\Cuatrimestre No. 5 TSU\Projet\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.pdb
+D:\Universidad Tecnológica Metropolitana\Cuatrimestre No. 5 TSU\Projet\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.csprojResolveAssemblyReference.cache
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.deps.json
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.runtimeconfig.json
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.runtimeconfig.dev.json
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.dll
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.pdb
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.csprojResolveAssemblyReference.cache
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.AssemblyInfo.cs
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.dll
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.pdb
