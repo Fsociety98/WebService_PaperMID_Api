@@ -16,10 +16,11 @@ namespace WebService_PaperMID_Api.DAL
         DataSet DAtaSetAdaptador;
         //String Servidor = "Data Source=sql7004.site4now.net;Initial Catalog=DB_A36000_PaperMIDPrueba;User ID=DB_A36000_PaperMIDPrueba_admin; password=PaperMID123;";
         String Heredia = "Data Source=DESKTOP-8BM8OCF; Initial Catalog=PaperMID; Integrated Security=True";
+        String Uicab = "Data Source=DESKTOP-891638V;Initial Catalog=PaperMID;Integrated Security=True";
 
         public SqlConnection EstablecerConexion()
         {
-            Con = new SqlConnection(Heredia);
+            Con = new SqlConnection(Uicab);
             return Con;
         }
 
