@@ -31,3 +31,14 @@ D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\n
 D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.AssemblyInfo.cs
 D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.dll
 D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.pdb
+C:\Users\Jesus Uicab\Documents\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.deps.json
+C:\Users\Jesus Uicab\Documents\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.runtimeconfig.json
+C:\Users\Jesus Uicab\Documents\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.runtimeconfig.dev.json
+C:\Users\Jesus Uicab\Documents\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.dll
+C:\Users\Jesus Uicab\Documents\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Debug\netcoreapp2.0\WebService_PaperMID_Api.pdb
+C:\Users\Jesus Uicab\Documents\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.csprojResolveAssemblyReference.cache
+C:\Users\Jesus Uicab\Documents\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Uicab\Documents\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.AssemblyInfoInputs.cache
+C:\Users\Jesus Uicab\Documents\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.AssemblyInfo.cs
+C:\Users\Jesus Uicab\Documents\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.dll
+C:\Users\Jesus Uicab\Documents\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Debug\netcoreapp2.0\WebService_PaperMID_Api.pdb
