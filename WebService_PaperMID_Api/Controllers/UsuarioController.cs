@@ -13,10 +13,10 @@ namespace WebService_PaperMID_Api.Controllers
     [Route("api/Usuario")]
     public class UsuarioController : Controller
     {
-        UsuarioDAL _oUsuarioDAL;
+        MensajeDAL _oUsuarioDAL;
         public UsuarioController()
         {
-            _oUsuarioDAL = new UsuarioDAL();
+            _oUsuarioDAL = new MensajeDAL();
         }
         //GET
         #region

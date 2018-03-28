@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitemanifest>
+<<<<<<< HEAD
   <IisApp path="D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Release\netcoreapp2.0\PubTmp\Out\" />
+=======
+  <IisApp path="C:\Users\Jesus Uicab\Documents\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Release\netcoreapp2.0\PubTmp\Out\" />
+>>>>>>> 7bc6666af908965a22898b22ba9ba4efd8a14901
 </sitemanifest>

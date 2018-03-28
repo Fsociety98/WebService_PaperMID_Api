@@ -10,5 +10,6 @@ namespace WebService_PaperMID_Api.Models
         public int IdUsuario { get; set; }
         public string Modulo { get; set; }
         public string NombreUsu { get; set; }
+        public string Usuario { get; set; }
     }
 }

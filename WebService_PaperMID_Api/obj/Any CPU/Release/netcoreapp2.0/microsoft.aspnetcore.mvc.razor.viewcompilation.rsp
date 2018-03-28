@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api
 --output-path=obj\Any CPU\Release\netcoreapp2.0\
 --application-name=WebService_PaperMID_Api
 --content-root=D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api
+=======
+C:\Users\Jesus Uicab\Documents\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=WebService_PaperMID_Api
+--content-root=C:\Users\Jesus Uicab\Documents\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api
+>>>>>>> 7bc6666af908965a22898b22ba9ba4efd8a14901
 --file=

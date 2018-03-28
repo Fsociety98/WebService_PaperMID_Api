@@ -19,7 +19,11 @@ namespace WebService_PaperMID_Api.DAL
 
         public SqlConnection EstablecerConexion()
         {
+<<<<<<< HEAD
             Con = new SqlConnection(Servidor);
+=======
+            Con = new SqlConnection(Server);
+>>>>>>> 7bc6666af908965a22898b22ba9ba4efd8a14901
             return Con;
         }
 

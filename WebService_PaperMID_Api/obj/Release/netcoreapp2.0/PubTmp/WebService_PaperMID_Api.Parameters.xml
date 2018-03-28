@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
+<<<<<<< HEAD
   <parameter name="IIS Web Application Name" description="" value="WebServicePaperMIDApi20180226124721" tags="IisApp">
     <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Documentos\\GitHub\\WebService_PaperMID_Api\\WebService_PaperMID_Api\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
+=======
+  <parameter name="IIS Web Application Name" description="" value="webservicepaper" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Jesus\ Uicab\\Documents\\GitHub\\WebService_PaperMID_Api\\WebService_PaperMID_Api\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
+>>>>>>> 7bc6666af908965a22898b22ba9ba4efd8a14901
   </parameter>
 </parameters>

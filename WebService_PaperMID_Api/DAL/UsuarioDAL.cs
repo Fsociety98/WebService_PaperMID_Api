@@ -10,10 +10,10 @@ using WebService_PaperMID_Api.Models;
 
 namespace WebService_PaperMID_Api.DAL
 {
-    public class UsuarioDAL
+    public class MensajeDAL
     {
         ConexionDAL oConexionDAL;
-        public UsuarioDAL()
+        public MensajeDAL()
         {
             oConexionDAL = new ConexionDAL();
         }
