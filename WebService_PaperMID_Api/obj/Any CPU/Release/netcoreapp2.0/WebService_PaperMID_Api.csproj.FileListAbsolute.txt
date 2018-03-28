@@ -9,3 +9,14 @@ C:\Users\Alejandro\Desktop\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\A
 C:\Users\Alejandro\Desktop\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Any CPU\Release\netcoreapp2.0\WebService_PaperMID_Api.AssemblyInfo.cs
 C:\Users\Alejandro\Desktop\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Any CPU\Release\netcoreapp2.0\WebService_PaperMID_Api.dll
 C:\Users\Alejandro\Desktop\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Any CPU\Release\netcoreapp2.0\WebService_PaperMID_Api.pdb
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Any CPU\Release\netcoreapp2.0\WebService_PaperMID_Api.deps.json
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Any CPU\Release\netcoreapp2.0\WebService_PaperMID_Api.runtimeconfig.json
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Any CPU\Release\netcoreapp2.0\WebService_PaperMID_Api.runtimeconfig.dev.json
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Any CPU\Release\netcoreapp2.0\WebService_PaperMID_Api.dll
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\bin\Any CPU\Release\netcoreapp2.0\WebService_PaperMID_Api.pdb
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Any CPU\Release\netcoreapp2.0\WebService_PaperMID_Api.csprojResolveAssemblyReference.cache
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Any CPU\Release\netcoreapp2.0\WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Any CPU\Release\netcoreapp2.0\WebService_PaperMID_Api.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Any CPU\Release\netcoreapp2.0\WebService_PaperMID_Api.AssemblyInfo.cs
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Any CPU\Release\netcoreapp2.0\WebService_PaperMID_Api.dll
+D:\Documentos\GitHub\WebService_PaperMID_Api\WebService_PaperMID_Api\obj\Any CPU\Release\netcoreapp2.0\WebService_PaperMID_Api.pdb

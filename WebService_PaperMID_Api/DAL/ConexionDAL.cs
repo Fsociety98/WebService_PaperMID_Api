@@ -14,18 +14,12 @@ namespace WebService_PaperMID_Api.DAL
         SqlDataAdapter Adaptador;
         DataTable TablaVirtual;
         DataSet DAtaSetAdaptador;
-        //String Servidor = "Data Source=sql7004.site4now.net;Initial Catalog=DB_A36000_PaperMIDPrueba;User ID=DB_A36000_PaperMIDPrueba_admin; password=PaperMID123;";
-        //String Heredia = "Data Source=DESKTOP-8BM8OCF; Initial Catalog=PaperMID; Integrated Security=True";
-        //String Uicab = "Data Source=DESKTOP-891638V;Initial Catalog=PaperMID;Integrated Security=True";
-        String Server = "Data Source=SQL7004.site4now.net;Initial Catalog=DB_A386B8_PaperMID;User Id=DB_A386B8_PaperMID_admin;Password=Cs18191819;";
+
+        String Servidor = "Data Source=SQL7004.site4now.net;Initial Catalog=DB_A386B8_PaperMID;User Id=DB_A386B8_PaperMID_admin;Password=Cs18191819;";
 
         public SqlConnection EstablecerConexion()
         {
-<<<<<<< HEAD
-            Con = new SqlConnection(Heredia);
-=======
-            Con = new SqlConnection(Server);
->>>>>>> adb523dc6859dc050f3ccb49a1eb0581407feb2b
+            Con = new SqlConnection(Servidor);
             return Con;
         }
 
