@@ -47,6 +47,7 @@ namespace WebService_PaperMID_Api.DAL
                 while (Datos.Read())
                 {
                     _oLogin_RespuestaModel.IdUsuario = int.Parse(Datos[0].ToString());
+                    _oLogin_RespuestaModel.Usuario = Datos[1].ToString();
                     _oLogin_RespuestaModel.Modulo = Datos[3].ToString();
                     _oLogin_RespuestaModel.NombreUsu = Datos[4].ToString();
 
