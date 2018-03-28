@@ -38,6 +38,7 @@ namespace WebService_PaperMID_Api.DAL
                 SqlCommand Cmd = new SqlCommand("EXEC SP_Login @Usuario,@ContraseñaUsu", _oConexionDAL.EstablecerConexion());
                 Cmd.Parameters.Add("@Usuario", SqlDbType.VarChar).Value = _oLoginComprobacionModel.Usuario;
                 Cmd.Parameters.Add("@ContraseñaUsu", SqlDbType.VarChar).Value = Encriptar(_oLoginComprobacionModel.ContraseñaUsu);
+                string encrip = Encriptar(_oLoginComprobacionModel.ContraseñaUsu);
                 Cmd.CommandType = CommandType.Text;
                 var _oLogin_RespuestaModel = new Login_RespuestaModel();
                 //Recolección de datos.
