@@ -97,3 +97,4 @@ WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.csproj.C
 WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
 WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
 WebService_PaperMID_Api/DAL/ConexionDAL.cs
+WebService_PaperMID_Api/DAL/ConexionDAL.cs
