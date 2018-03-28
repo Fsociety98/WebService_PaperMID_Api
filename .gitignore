@@ -64,6 +64,19 @@ WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.runtimec
 WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
 WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.deps.json
 .vs/WebService_PaperMID_Api/v15/Server/sqlite3/storage.ide
+<<<<<<< HEAD
+WebService_PaperMID_Api/obj/WebService_PaperMID_Api.csproj.nuget.g.props
+WebService_PaperMID_Api/obj/WebService_PaperMID_Api.csproj.nuget.cache
+WebService_PaperMID_Api/obj/project.assets.json
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.csprojResolveAssemblyReference.cache
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
+WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.runtimeconfig.dev.json
+WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.deps.json
+.vs/WebService_PaperMID_Api/v15/Server/sqlite3/storage.ide
+=======
 .vs/WebService_PaperMID_Api/v15/Server/sqlite3/storage.ide
 WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
 .vs/WebService_PaperMID_Api/v15/Server/sqlite3/storage.ide
@@ -71,6 +84,7 @@ WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
 WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
 WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
 WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
+<<<<<<< HEAD
 .vs/WebService_PaperMID_Api/v15/Server/sqlite3/storage.ide
 WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.deps.json
 WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
@@ -78,3 +92,23 @@ WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
 WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
 WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
 WebService_PaperMID_Api/obj/project.assets.json
+=======
+>>>>>>> ee227bb5aa9568a9ca9a348a42c31e87e331cb58
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
+WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
+.vs/WebService_PaperMID_Api/v15/Server/sqlite3/storage.ide
+>>>>>>> 9a6a397bdd5754e4d65e30a5d8b16bcac46ecd4a
+.vs/WebService_PaperMID_Api/v15/Server/sqlite3/storage.ide
+.vs/WebService_PaperMID_Api/v15/Server/sqlite3/storage.ide-wal
+WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.runtimeconfig.dev.json
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.csprojResolveAssemblyReference.cache
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/obj/project.assets.json
+WebService_PaperMID_Api/obj/WebService_PaperMID_Api.csproj.nuget.cache
+WebService_PaperMID_Api/obj/WebService_PaperMID_Api.csproj.nuget.g.props
