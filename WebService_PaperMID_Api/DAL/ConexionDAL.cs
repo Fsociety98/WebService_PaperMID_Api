@@ -20,7 +20,7 @@ namespace WebService_PaperMID_Api.DAL
 
         public SqlConnection EstablecerConexion()
         {
-            Con = new SqlConnection(Uicab);
+            Con = new SqlConnection(Heredia);
             return Con;
         }
 
