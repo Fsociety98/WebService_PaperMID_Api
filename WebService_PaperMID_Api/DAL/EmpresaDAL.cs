@@ -19,7 +19,6 @@ namespace WebService_PaperMID_Api.DAL
         {
             Models.EmpresaModel Model = (Models.EmpresaModel)Obj;
             SqlCommand Cmd = new SqlCommand("UPDATE [dbo].[Papeleria] SET [NombrePape] = @NombrePape,[MisionPape] = @MisionPape,[VisionPape] = @VisionPape,[ValoresPape] = @ValoresPape,[CorreoPape] = @CorreoPape,[TelefenoPape] = @TelefenoPape WHERE IdPapeleria=@IdPapeleria");
-            //@ImagenLogoEmpre ,@ValoresEmpre,@CorreoEmpre,@TelefenoEmpre,@FacebookEmpre,@IdDireccion1 ,[FacebookEmpre] = @FacebookEmpre,[IdDireccion1] = @IdDireccion1
             Cmd.Parameters.Add("@IdPapeleria", SqlDbType.Int).Value = Model.IdPapeleria;
             Cmd.Parameters.Add("@NombrePape", SqlDbType.VarChar).Value = Model.NombrePape;
             Cmd.Parameters.Add("@MisionPape", SqlDbType.VarChar).Value = Model.MisionPape;
