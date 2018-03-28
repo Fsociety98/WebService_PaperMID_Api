@@ -21,7 +21,11 @@ namespace WebService_PaperMID_Api.DAL
 
         public SqlConnection EstablecerConexion()
         {
+<<<<<<< HEAD
+            Con = new SqlConnection(Heredia);
+=======
             Con = new SqlConnection(Server);
+>>>>>>> adb523dc6859dc050f3ccb49a1eb0581407feb2b
             return Con;
         }
 
