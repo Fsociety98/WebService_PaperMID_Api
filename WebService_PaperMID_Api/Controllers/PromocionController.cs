@@ -46,7 +46,7 @@ namespace WebService_PaperMID_Api.Controllers
                 return BadRequest();
             else
                 _oPromocionDAL.Agregar(_oPromocionModel);
-            return CreatedAtRoute("ListaProveedores", new { IdPromocion = _oPromocionModel.IdPromocion }, _oPromocionModel);
+            return CreatedAtRoute("ListaPromociones", new { IdPromocion = _oPromocionModel.IdPromocion }, _oPromocionModel);
         }
         #endregion
 

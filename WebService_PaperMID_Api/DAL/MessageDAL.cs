@@ -33,21 +33,21 @@ namespace WebService_PaperMID_Api.DAL
             return _oConexionDAL.EjecutarSQL(Cmd);
         }
 
-        public int AgregarCliente(object Obj)
-        {
-            Models.MensajeModels _oMensajeModel = (Models.MensajeModels)Obj;
-            SqlCommand Cmd = new SqlCommand("INSERT INTO [dbo].[Mensaje]([Mensaje],[Nombre],[Asunto],[Telefono],[Correo],[Usuario],[Estatus]) VALUES (@Mensaje,@Nombre,@Asunto,@Telefono,@Correo,@Usuario,@Estatus)");
-            //@Mensaje,@Asunto,@Telefono,@Correo,@Usuario,@Estatus,@Nombre
-            Cmd.Parameters.Add("@Mensaje", SqlDbType.VarChar).Value = _oMensajeModel.Mensaje;
-            Cmd.Parameters.Add("@Nombre", SqlDbType.VarChar).Value = _oMensajeModel.Nombre;
-            Cmd.Parameters.Add("@Asunto", SqlDbType.VarChar).Value = _oMensajeModel.Asunto;
-            Cmd.Parameters.Add("@Telefono", SqlDbType.VarChar).Value = _oMensajeModel.Telefono;
-            Cmd.Parameters.Add("@Correo", SqlDbType.VarChar).Value = _oMensajeModel.Correo;
-            Cmd.Parameters.Add("@Usuario", SqlDbType.Int).Value = _oMensajeModel.Usuario;
-            Cmd.Parameters.Add("@Estatus", SqlDbType.Int).Value = 0;
-            Cmd.CommandType = CommandType.Text;
-            return _oConexionDAL.EjecutarSQL(Cmd);
-        }
+        //public int AgregarCliente(object Obj)
+        //{
+        //    Models.MensajeModels _oMensajeModel = (Models.MensajeModels)Obj;
+        //    SqlCommand Cmd = new SqlCommand("INSERT INTO [dbo].[Mensaje]([Mensaje],[Nombre],[Asunto],[Telefono],[Correo],[Usuario],[Estatus]) VALUES (@Mensaje,@Nombre,@Asunto,@Telefono,@Correo,@Usuario,@Estatus)");
+        //    //@Mensaje,@Asunto,@Telefono,@Correo,@Usuario,@Estatus,@Nombre
+        //    Cmd.Parameters.Add("@Mensaje", SqlDbType.VarChar).Value = _oMensajeModel.Mensaje;
+        //    Cmd.Parameters.Add("@Nombre", SqlDbType.VarChar).Value = _oMensajeModel.Nombre;
+        //    Cmd.Parameters.Add("@Asunto", SqlDbType.VarChar).Value = _oMensajeModel.Asunto;
+        //    Cmd.Parameters.Add("@Telefono", SqlDbType.VarChar).Value = _oMensajeModel.Telefono;
+        //    Cmd.Parameters.Add("@Correo", SqlDbType.VarChar).Value = _oMensajeModel.Correo;
+        //    Cmd.Parameters.Add("@Usuario", SqlDbType.Int).Value = _oMensajeModel.Usuario;
+        //    Cmd.Parameters.Add("@Estatus", SqlDbType.Int).Value = 0;
+        //    Cmd.CommandType = CommandType.Text;
+        //    return _oConexionDAL.EjecutarSQL(Cmd);
+        //}
 
 
         public List<MensajeModels> TablaMensajes()
