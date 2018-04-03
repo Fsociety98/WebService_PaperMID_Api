@@ -171,6 +171,47 @@ WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
 WebService_PaperMID_Api/obj/project.assets.json
 WebService_PaperMID_Api/obj/WebService_PaperMID_Api.csproj.nuget.cache
 WebService_PaperMID_Api/obj/WebService_PaperMID_Api.csproj.nuget.g.props
+<<<<<<< HEAD
+.vs/WebService_PaperMID_Api/v15/Server/sqlite3/storage.ide
+.vs/WebService_PaperMID_Api/v15/Server/sqlite3/storage.ide
+WebService_PaperMID_Api/bin/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.deps.json
+WebService_PaperMID_Api/bin/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/bin/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.deps.json
+WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.runtimeconfig.dev.json
+WebService_PaperMID_Api/bin/Release/netcoreapp2.0/WebService_PaperMID_Api.deps.json
+WebService_PaperMID_Api/bin/Release/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/bin/Release/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/microsoft.aspnetcore.mvc.razor.viewcompilation.rsp
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.csproj.FileListAbsolute.txt
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.csprojResolveAssemblyReference.cache
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.PrecompiledViews.dll
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.PrecompiledViews.pdb
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.csprojResolveAssemblyReference.cache
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/obj/project.assets.json
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/Out/WebService_PaperMID_Api.deps.json
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/Out/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/Out/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/Out/WebService_PaperMID_Api.PrecompiledViews.dll
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/Out/WebService_PaperMID_Api.PrecompiledViews.pdb
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/WebService_PaperMID_Api.Parameters.xml
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/WebService_PaperMID_Api.SourceManifest.xml
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/WebService_PaperMID_Api.csproj.FileListAbsolute.txt
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/WebService_PaperMID_Api.csprojResolveAssemblyReference.cache
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/obj/WebService_PaperMID_Api.csproj.nuget.cache
+WebService_PaperMID_Api/obj/WebService_PaperMID_Api.csproj.nuget.g.props
+=======
 >>>>>>> 1e2a0cfe7735a75a6c53cbb986b9ad8e4aaed08d
 .vs/WebService_PaperMID_Api/v15/Server/sqlite3/storage.ide
 WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
@@ -185,6 +226,7 @@ WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
 WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
 WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
 WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
+<<<<<<< HEAD
 .vs/WebService_PaperMID_Api/v15/Server/sqlite3/storage.ide
 .vs/WebService_PaperMID_Api/v15/Server/sqlite3/storage.ide
 WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
@@ -192,3 +234,87 @@ WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
 WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
 WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
 WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
+=======
+>>>>>>> 7bc6666af908965a22898b22ba9ba4efd8a14901
+.vs/WebService_PaperMID_Api/v15/Server/sqlite3/storage.ide
+WebService_PaperMID_Api/bin/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.deps.json
+WebService_PaperMID_Api/bin/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/bin/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/bin/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.runtimeconfig.dev.json
+WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/bin/Release/netcoreapp2.0/WebService_PaperMID_Api.deps.json
+WebService_PaperMID_Api/bin/Release/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/bin/Release/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/bin/Release/netcoreapp2.0/WebService_PaperMID_Api.runtimeconfig.dev.json
+WebService_PaperMID_Api/DAL/ConexionDAL.cs
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/microsoft.aspnetcore.mvc.razor.viewcompilation.rsp
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.csproj.FileListAbsolute.txt
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.csprojResolveAssemblyReference.cache
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.PrecompiledViews.dll
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.PrecompiledViews.pdb
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/Out/WebService_PaperMID_Api.deps.json
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/Out/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/Out/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/Out/WebService_PaperMID_Api.PrecompiledViews.dll
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/Out/WebService_PaperMID_Api.PrecompiledViews.pdb
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/WebService_PaperMID_Api.Parameters.xml
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/WebService_PaperMID_Api.SourceManifest.xml
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/WebService_PaperMID_Api.csproj.FileListAbsolute.txt
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/WebService_PaperMID_Api.csprojResolveAssemblyReference.cache
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/Properties/PublishProfiles/papermerida1 - FTP.pubxml
+WebService_PaperMID_Api/Properties/PublishProfiles/papermerida1 - FTP.pubxml.user
+WebService_PaperMID_Api/Properties/PublishProfiles/papermerida1 - Web Deploy.pubxml
+WebService_PaperMID_Api/Properties/PublishProfiles/papermerida1 - Web Deploy.pubxml.user
+WebService_PaperMID_Api/Properties/PublishProfiles/webservicepaper - FTP.pubxml
+WebService_PaperMID_Api/Properties/PublishProfiles/webservicepaper - FTP.pubxml.user
+WebService_PaperMID_Api/Properties/PublishProfiles/webservicepaper - Web Deploy.pubxml
+WebService_PaperMID_Api/Properties/PublishProfiles/webservicepaper - Web Deploy.pubxml.user
+>>>>>>> bbea5d6160bd3cd838688f49efb9f84bb0a2987c
+.vs/WebService_PaperMID_Api/v15/Server/sqlite3/storage.ide
+WebService_PaperMID_Api/bin/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.deps.json
+WebService_PaperMID_Api/bin/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/bin/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.deps.json
+WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/bin/Debug/netcoreapp2.0/WebService_PaperMID_Api.runtimeconfig.dev.json
+WebService_PaperMID_Api/bin/Release/netcoreapp2.0/WebService_PaperMID_Api.deps.json
+WebService_PaperMID_Api/bin/Release/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/bin/Release/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/microsoft.aspnetcore.mvc.razor.viewcompilation.rsp
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.csproj.FileListAbsolute.txt
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.csprojResolveAssemblyReference.cache
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.PrecompiledViews.dll
+WebService_PaperMID_Api/obj/Any CPU/Release/netcoreapp2.0/WebService_PaperMID_Api.PrecompiledViews.pdb
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.csprojResolveAssemblyReference.cache
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/obj/Debug/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/obj/project.assets.json
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/Out/WebService_PaperMID_Api.deps.json
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/Out/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/Out/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/Out/WebService_PaperMID_Api.PrecompiledViews.dll
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/Out/WebService_PaperMID_Api.PrecompiledViews.pdb
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/WebService_PaperMID_Api.Parameters.xml
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/PubTmp/WebService_PaperMID_Api.SourceManifest.xml
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/WebService_PaperMID_Api.csproj.CoreCompileInputs.cache
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/WebService_PaperMID_Api.csproj.FileListAbsolute.txt
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/WebService_PaperMID_Api.csprojResolveAssemblyReference.cache
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/WebService_PaperMID_Api.dll
+WebService_PaperMID_Api/obj/Release/netcoreapp2.0/WebService_PaperMID_Api.pdb
+WebService_PaperMID_Api/obj/WebService_PaperMID_Api.csproj.nuget.cache
+WebService_PaperMID_Api/obj/WebService_PaperMID_Api.csproj.nuget.g.props
